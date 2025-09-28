@@ -156,15 +156,6 @@ We welcome contributions! Here's how you can get started:
 4. Push your branch to your fork.
 5. Open a pull request to the main repository.
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👥 Authors & Contributors
-
-- **Maintainer**: [Your Name]
-- **Contributors**: [List of contributors]
-
 ## 🐛 Issues & Support
 
 - **Report Issues**: Open an issue on the GitHub repository.
